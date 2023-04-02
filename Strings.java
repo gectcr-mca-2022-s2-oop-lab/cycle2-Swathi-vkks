@@ -37,7 +37,7 @@ System.out.println("Enter String to replace: ");
 
 String s2 = sc.nextLine();
 
-System.out.println("Replace " + value + " with" + s2 + " words: " + value.replace("aneena", s2));
+System.out.println("Replace " + value + " with" + s2 + " words: " + value.replace("anu", s2));
 
 System.out.println("Convert to LowerCase: " + value.toLowerCase());
 
